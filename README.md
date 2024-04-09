@@ -166,7 +166,8 @@ endmodule
 
 ## RIPPLE CARRY COUNTER:
 ### Logic Diagram:
-
+![RCA](https://github.com/vignesh7605/VLSI-LAB-EXP-4/assets/160568690/3ac04a13-47b6-4664-890d-25133409319b)
+![RCA](https://github.com/vignesh7605/VLSI-LAB-EXP-4/assets/160568690/a2e3e352-fd4f-4e4a-b2c9-3311cced9743)
 ### Verilog Code:
 ```
 module tff(q,clk,rst);
@@ -200,6 +201,7 @@ tff tf4(q[3],q[2],rst);
 endmodule
 ```
 ### Output:
+![RCA4](https://github.com/vignesh7605/VLSI-LAB-EXP-4/assets/160568690/9d890c8c-0a2b-4dd6-8b65-92a3523f321d)
 
 ## RESULT:
  Hence SR, JK, T, D - FLIPFLOP, COUNTER DESIGN are simulated and synthesised using Xilinx ISE.
